@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGT_Exchange_ClientLibrary", "MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary.csproj", "{CF599966-9E6C-4C8E-A046-0E37D32538B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest_Exchange", "NUnitTest_Exchange\NUnitTest_Exchange.csproj", "{FBD1C5F8-9395-40AA-AFF0-862701C25370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF599966-9E6C-4C8E-A046-0E37D32538B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF599966-9E6C-4C8E-A046-0E37D32538B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF599966-9E6C-4C8E-A046-0E37D32538B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF599966-9E6C-4C8E-A046-0E37D32538B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD1C5F8-9395-40AA-AFF0-862701C25370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD1C5F8-9395-40AA-AFF0-862701C25370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD1C5F8-9395-40AA-AFF0-862701C25370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD1C5F8-9395-40AA-AFF0-862701C25370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E61A614-D17A-4CBF-9422-1CA6F1554065}
+	EndGlobalSection
+EndGlobal

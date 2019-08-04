@@ -1,0 +1,17 @@
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnitTest_Exchange.deps.json
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnitTest_Exchange.runtimeconfig.json
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnitTest_Exchange.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnitTest_Exchange.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\NUnitTest_Exchange.pdb
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\MGT_Exchange_ClientLibrary.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\bin\Debug\netcoreapp2.2\MGT_Exchange_ClientLibrary.pdb
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.csproj.CopyComplete
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\NUnitTest_Exchange\obj\Debug\netcoreapp2.2\NUnitTest_Exchange.pdb

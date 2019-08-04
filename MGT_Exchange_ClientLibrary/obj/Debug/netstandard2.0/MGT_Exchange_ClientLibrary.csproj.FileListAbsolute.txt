@@ -1,0 +1,8 @@
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\bin\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.deps.json
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\bin\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\bin\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.pdb
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\obj\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\obj\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\obj\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\obj\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.dll
+C:\Users\Pedro\source\repos\MGT_Exchange_ClientLibrary\MGT_Exchange_ClientLibrary\obj\Debug\netstandard2.0\MGT_Exchange_ClientLibrary.pdb
